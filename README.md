@@ -1,4 +1,6 @@
 ### Hi there 👋
+![This is an image](https://github.com/ernestoo-v/ernestoo-v/blob/main/assets/Captura%20de%20pantalla_20230213_100634.png)
+
 
 <!--
 **ernestoo-v/ernestoo-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
